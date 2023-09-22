@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://electra.business/</loc>
+		<lastmod>2023-08-29T12:50:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://electra.business/documents</loc>
+		<lastmod>2023-08-29T12:50:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://electra.business/app</loc>
+		<lastmod>2023-08-29T12:50:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://electra.business/pp_portugal</loc>
+		<lastmod>2023-08-29T12:50:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://electra.business/pp_cyprus</loc>
+		<lastmod>2023-08-29T12:50:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://electra.business/pp_spain</loc>
+		<lastmod>2023-08-29T12:50:45+00:00</lastmod>
+	</url>
+</urlset>
